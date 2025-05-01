@@ -3,5 +3,5 @@ Este es un programa sencillo qu epermite descargar videos de youtube en la mejor
 - instalar la liberia yt_dlp
 - instalar ffmpeg
 
-  # ¿Cómo se usa?
+# ¿Cómo se usa?
   - copiar el enlace del video, meterno como string en el arreglo links que se encuentra casi al fondo del programa.
